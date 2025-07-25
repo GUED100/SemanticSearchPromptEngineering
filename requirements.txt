@@ -1,0 +1,7 @@
+streamlit
+pdfplumber
+requests
+openai
+weaviate-client
+python-dotenv
+numpy

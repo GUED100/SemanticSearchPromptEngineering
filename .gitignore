@@ -1,0 +1,5 @@
+# .gitignore
+.env
+.streamlit
+.vscode
+__pycache__
