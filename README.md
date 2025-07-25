@@ -1,10 +1,10 @@
 ---
 title: Semantic Prompt Search
 emoji: 🔍
-colorFrom: cyan
+colorFrom: blue
 colorTo: indigo
 sdk: streamlit
-sdk_version: "1.34.0"
+sdk_version: "1.46.0"
 app_file: app.py
 pinned: false
 ---
