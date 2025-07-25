@@ -7,6 +7,7 @@ sdk: streamlit
 sdk_version: "1.46.0"
 app_file: app.py
 pinned: false
+python_version: "3.12.8"
 ---
 
 # 🔍 Semantic Prompt Search

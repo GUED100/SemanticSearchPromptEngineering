@@ -1,7 +1,9 @@
-streamlit
-pdfplumber
-requests
-openai
-weaviate-client
+streamlit==1.46.0
+pdfplumber==0.11.7
+requests==2.31.0
+requests-oauthlib==2.0.0
+requests-toolbelt==1.0.0
+openai==1.84.0
+weaviate-client==3.26.1
 python-dotenv
-numpy
+numpy==1.26.4
